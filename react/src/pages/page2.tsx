@@ -3,7 +3,6 @@ import { Canvas } from '@react-three/fiber'
 import { Line } from '@react-three/drei'
 import { ReactElement } from 'react'
 import { Euler } from 'three'
-import { walls_floorplan } from '../../data/task2'
 
 const Page2 = (): ReactElement => {
   return (
